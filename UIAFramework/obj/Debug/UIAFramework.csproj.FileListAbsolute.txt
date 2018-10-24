@@ -1,0 +1,28 @@
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\UIAFramework.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\UIAFramework.pdb
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\obj\Debug\UIAFramework.csprojResolveAssemblyReference.cache
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\obj\Debug\UIAFramework.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\obj\Debug\UIAFramework.pdb
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\UiaComWrapper.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Interop.UIAutomationClient.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+C:\UIALatest\UIAFramework\bin\Debug\UIAFramework.dll
+C:\UIALatest\UIAFramework\bin\Debug\UIAFramework.pdb
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+C:\UIALatest\UIAFramework\bin\Debug\UiaComWrapper.dll
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+C:\UIALatest\UIAFramework\bin\Debug\Interop.UIAutomationClient.dll
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\UIALatest\UIAFramework\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+C:\UIALatest\UIAFramework\obj\Debug\UIAFramework.csprojResolveAssemblyReference.cache
+C:\UIALatest\UIAFramework\obj\Debug\UIAFramework.dll
+C:\UIALatest\UIAFramework\obj\Debug\UIAFramework.pdb

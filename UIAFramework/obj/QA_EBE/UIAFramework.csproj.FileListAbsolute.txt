@@ -1,0 +1,5 @@
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\QA_EBE\UIAFramework.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\bin\QA_EBE\UIAFramework.pdb
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\obj\QA_EBE\UIAFramework.dll
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\obj\QA_EBE\UIAFramework.pdb
+C:\GoLimbsAutomation\GOLIMS Automation\UIAFramework\obj\QA_EBE\UIAFramework.csprojResolveAssemblyReference.cache

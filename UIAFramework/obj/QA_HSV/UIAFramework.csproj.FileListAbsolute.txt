@@ -1,0 +1,27 @@
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\UIAFramework.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\UIAFramework.pdb
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITesting.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\UiaComWrapper.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Interop.UIAutomationClient.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITesting.xml
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\obj\QA_HSV\UIAFramework.dll
+K:\EITSI\IT\ShilpaPrabhu\New folder (3)\UIAFramework\obj\QA_HSV\UIAFramework.pdb
+C:\UIALatest\UIAFramework\bin\QA_HSV\UIAFramework.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\UIAFramework.pdb
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITesting.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\UiaComWrapper.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\Interop.UIAutomationClient.dll
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITesting.xml
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+C:\UIALatest\UIAFramework\bin\QA_HSV\Microsoft.VisualStudio.TestTools.UITest.Common.xml
+C:\UIALatest\UIAFramework\obj\QA_HSV\UIAFramework.dll
+C:\UIALatest\UIAFramework\obj\QA_HSV\UIAFramework.pdb
+C:\UIALatest\UIAFramework\obj\QA_HSV\UIAFramework.csprojResolveAssemblyReference.cache
